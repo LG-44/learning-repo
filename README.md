@@ -9,5 +9,3 @@
 ## Subheader
 Some description !
 
-### Subheader
-Some description !
