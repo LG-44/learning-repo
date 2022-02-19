@@ -7,5 +7,7 @@
 + Fourth item
 
 ## Subheader
-Some description !
+Some description!
 
+## Local development
+1. Open index.html in your browser.
